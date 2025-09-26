@@ -34,11 +34,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My future research will be leading the DRAGGON Lab—Developing, Researching, and Architecting
-Genetic and GenOmic Networks—an interdisciplinary research laboratory committed to scientific and
-engineering excellence in synthetic biology, computational biology, and software development. We aim
-at creating platforms to engineer biological systems across scales using a computational-experimental
-integration in automated data-driven synthetic biology workflows.
+        My future research will be leading the DRAGGON Lab—Developing, Researching, and Architecting Genetic and GenOmic Networks—an interdisciplinary research laboratory committed to scientific and     engineering excellence in synthetic biology, computational biology, and software development. We aim at creating platforms to engineer biological systems across scales using a computational-experimental integration in automated data-driven synthetic biology workflows.
 
         Please reach out to collaborate 😃
     design:
