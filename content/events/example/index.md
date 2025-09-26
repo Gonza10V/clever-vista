@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: Software for Synthetic Biology Workflows
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Software for Synthetic Biology Workflows at SEED
+event_url: https://synbioconference.org/2023
 
-location: Hugo Blox Builder HQ
+location: Hilton Los Angeles/Universal City Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 555 Universal Hollywood Drive
+  city: Los Angeles
   region: CA
-  postcode: '94305'
+  postcode: '91608'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Workshop - Software for Synthetic Biology Workflows - How to Improve Your Productivity and Impact
+abstract: 'Synthetic Biology is an interdisciplinary field in a maturation state. The field still lacks an engineering base to support the engineering of biological systems. Here we present the advances in the developing of a software ecosystem that support an standard enabled DBTL cycle.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-06-03T19:00:00Z'
+date_end: '2023-06-03T21:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: 2023-05-01T00:00:00Z'
 
 authors:
   - admin
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: Image credit: [**Gonza10V**](https://github.com/Gonza10V)'
   focal_point: Right
 
 links:
