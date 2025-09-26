@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: Image credit: [**Gonza10V**](https://github.com/Gonza10V)'
+  caption: 'Image credit: [**Gonza10V**](https://github.com/Gonza10V)'
   focal_point: Right
 
 links:
@@ -57,7 +57,10 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - LOICA
+  - PUDU
+  - XDC
+  - SynBioSuite
 ---
 
 > [!NOTE]
