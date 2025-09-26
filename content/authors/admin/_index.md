@@ -33,51 +33,51 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:gonzalo.vidalpena@colorado.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/Gonza10V
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/Gonza10V
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/gonzalo-vidal-synbio/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=m3sQS9cAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0003-3543-520X
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Synthetic Biology
+  - Artificial Intelligence
+  - Computational Biology
+  - Software Engineering
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD in Computer Science
+    institution: Newcastle University
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis title: Automated design, build, test, learn workflows to engineer synthetic genetic networks.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
+    
+  - area: BS and Professional Title in Biochemistry
+    institution: Pontifical Catholic University of Chile
     date_start: 2013-09-01
     date_end: 2015-05-31
     summary: |
-      GPA: 4.0/4.0
+      Honors
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
+
+  - area: BS Natural and Exact Sciences 
     institution: MIT
     date_start: 2009-09-01
     date_end: 2013-05-31
     summary: |
-      GPA: 3.9/4.0
+      Honors
 
-      Minored in Mathematics. President of AI Club.
 
 work:
   - position: Senior AI Research Scientist
