@@ -165,7 +165,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I’m a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder. My research include Synthetic Biology, Artificial Intelligence, Computational Biology, Lab automation, Software Development and Data Standardization.
-
+I’m a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder. My research is at the intersection of Synthetic Biology and Computing.
 I’m currently developing a connected and automated DBTL cycle for SynBio using standardized DNA parts, software tools and lab automation in bacteria. I aim at creating platforms to engineer biological systems across scales using a computer-aided automated data-driven synthetic biology workflows with digital twins for bacterial biofilms and host-microbiome interactions.
 
