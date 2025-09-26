@@ -166,5 +166,5 @@ awards:
 ---
 
 I’m a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder.
-I’m developing biological and computational tools to create platforms for engineering biological systems across scales using computer-aided automated data-driven synthetic biology workflows with digital twins for bacterial biofilms and host-microbiome interactions.
+I’m developing biological and computational tools to create platforms for engineering biological systems across scales.
 
