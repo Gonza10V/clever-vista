@@ -27,7 +27,8 @@ abstract: Genetic design automation tools are necessary to expand the scale and 
 summary: Logical Operators for Integrated Cell Algorithms (LOICA) is a tool for the design, modeling, and parametrization of synthetic genetic networks.
 
 tags:
-- Source Themes
+- Design
+- Genetic Networks
 featured: true
 
 hugoblox:
