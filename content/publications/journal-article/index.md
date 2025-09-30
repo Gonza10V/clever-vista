@@ -28,6 +28,8 @@ summary: Logical Operators for Integrated Cell Algorithms (LOICA) is a tool for 
 
 tags:
 - Design
+- Modeling
+- Simulation
 - Genetic Networks
 featured: true
 
