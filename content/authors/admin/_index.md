@@ -165,6 +165,9 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I’m a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder.
+Hi, I'm Gonzalo Vidal a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder.
 I’m developing biological and computational tools to create platforms for engineering biological systems across scales.
+My aim is to design and deploy engineered organisms and ecosystems to produce food, medicine, shelter, and biotechnology for a happier, healthier, and sustainable humanity.
+
+
 
