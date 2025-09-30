@@ -1,15 +1,16 @@
 ---
-title: "An example journal article"
+title: "LOICA: Integrating Models with Data for Genetic Network Design Automation"
 authors:
 - admin
-- Robert Ford
+- Carolus Vitalis
+- Timothy Rudge
+- 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2022-05-04T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-05-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,44 +18,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "LOICA: Integrating Models with Data for Genetic Network Design Automation"
+publication_short: "LOICA"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Genetic design automation tools are necessary to expand the scale and complexity of possible synthetic genetic networks. These tools are enabled by abstraction of a hierarchy of standardized components and devices. Abstracted elements must be parametrized from data derived from relevant experiments, and these experiments must be related to the part composition of the abstract components. Here we present Logical Operators for Integrated Cell Algorithms (LOICA), a Python package for designing, modeling, and characterizing genetic networks based on a simple object-oriented design abstraction. LOICA uses classes to represent different biological and experimental components, which generate models through their interactions. These models can be parametrized by direct connection to data contained in Flapjack so that abstracted components of designs can characterize themselves. Models can be simulated using continuous or stochastic methods and the data published and managed using Flapjack. LOICA also outputs SBOL3 descriptions and generates graph representations of genetic network designs.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Logical Operators for Integrated Cell Algorithms (LOICA) is a tool for the design, modeling, and parametrization of synthetic genetic networks.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 hugoblox:
   ids:
     arxiv: 1512.04133v1
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+  - type: journal
+    url: https://doi.org/10.1021/acssynbio.1c00603
   - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+    url: https://github.com/RudgeLab/LOICA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: ACS Synthetic Biology'
   focal_point: ""
   preview_only: false
 
