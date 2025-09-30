@@ -1,5 +1,5 @@
 ---
-title: Software for Synthetic Biology Workflows
+title: Software for Synthetic Biology Workflows at SEED
 
 event: Software for Synthetic Biology Workflows at SEED
 event_url: https://synbioconference.org/2023
