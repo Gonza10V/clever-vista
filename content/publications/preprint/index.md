@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Novel Tunable Spatio-Temporal Patterns From a Simple Genetic Oscillator Circuit"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
