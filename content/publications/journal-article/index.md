@@ -1,9 +1,9 @@
 ---
-title: "LOICA: Integrating Models with Data for Genetic Network Design Automation"
+title: "SeqTrainer: Encoding Synthetic Biology Data for Machine Learning"
 authors:
 - admin
-- Carolus Vitalis
-- Timothy Rudge
+- Sai Wong
+- Chris Myers
   
 author_notes:
 
@@ -18,19 +18,17 @@ publishDate: "2022-05-04T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "LOICA: Integrating Models with Data for Genetic Network Design Automation"
-publication_short: "LOICA"
+publication: "SeqTrainer: Encoding Synthetic Biology Data for Machine Learning"
+publication_short: "SeqTrainer"
 
-abstract: Genetic design automation tools are necessary to expand the scale and complexity of possible synthetic genetic networks. These tools are enabled by abstraction of a hierarchy of standardized components and devices. Abstracted elements must be parametrized from data derived from relevant experiments, and these experiments must be related to the part composition of the abstract components. Here we present Logical Operators for Integrated Cell Algorithms (LOICA), a Python package for designing, modeling, and characterizing genetic networks based on a simple object-oriented design abstraction. LOICA uses classes to represent different biological and experimental components, which generate models through their interactions. These models can be parametrized by direct connection to data contained in Flapjack so that abstracted components of designs can characterize themselves. Models can be simulated using continuous or stochastic methods and the data published and managed using Flapjack. LOICA also outputs SBOL3 descriptions and generates graph representations of genetic network designs.
+abstract: SeqTrainer aims to help researchers efficiently collect the data they need to train models by preprocessing the data stored in SynBioHub. We developed a Python package that streamlines querying and preprocessing data from SynBioHub, generating features for ML models. By integrating SBOL data querying, feature engineering (including k-mers, PWM, and GC skew), and graph neural network (GNN) modeling, this project will help researchers to efficiently analyze synthetic constructs and generate predictions for their data.
 
 # Summary. An optional shortened abstract.
-summary: Logical Operators for Integrated Cell Algorithms (LOICA) is a tool for the design, modeling, and parametrization of synthetic genetic networks.
+summary: SeqTrainer is a software tool to facilitate the training of ML models on standardized data in SBOL stored in SynBioHub.
 
 tags:
-- Design
-- Modeling
-- Simulation
-- Genetic Networks
+- Machine Learning
+
 featured: true
 
 hugoblox:
