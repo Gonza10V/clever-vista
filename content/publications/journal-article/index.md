@@ -1,9 +1,9 @@
 ---
 title: "SeqTrainer: Encoding Synthetic Biology Data for Machine Learning"
 authors:
-- admin
 - Sai Wong
 - Chris Myers
+- admin
   
 author_notes:
 
