@@ -53,8 +53,8 @@ interests:
   - Software Engineering
   - Biocomputation
   - Automation
-  - Genetic Network
-  - Genomic Network
+  - Genetic Networks
+  - Genomic Networks
 
 education:
   - area: PhD in Computer Science
