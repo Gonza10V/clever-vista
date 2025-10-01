@@ -1,10 +1,15 @@
 ---
 title: "Novel Tunable Spatio-Temporal Patterns From a Simple Genetic Oscillator Circuit"
 authors:
-- admin
 - Guillermo Yanez
+- admin
 - Macarena Muñoz
 - Timothy Rudge
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
   
 date: "2019-04-07T00:00:00Z"
 
