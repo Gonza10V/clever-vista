@@ -136,6 +136,8 @@ languages:
     percent: 95
   - name: Spanish
     percent: 100
+  - name: Python
+    percent: 95
 
 # Awards.
 #   Add/remove as many awards below as you like.
