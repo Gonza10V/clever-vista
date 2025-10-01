@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-11-30T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,7 +24,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: OPA1 and disease-causing mutants perturb mitochondrial nucleoid distribution
@@ -38,6 +38,7 @@ summary: In this work we studied the effect of OPA1 and different ADOA-causing m
 tags:
   - Machine Learning
   - Computational Biology
+  - Automation
 
 # Display this page in the Featured widget?
 featured: true
