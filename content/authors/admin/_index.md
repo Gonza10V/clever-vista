@@ -142,27 +142,27 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Best Postdoc Mentor Award
+    url: https://www.colorado.edu/ecee/ecee-awards-dinner-2025
+    date: '2025-04-25'
+    awarder: University of Colorado Boulder, ECEE Department
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded for contributions to the formation of students in research
+  - title: Best Poster Award
+    url: https://www.iwbdaconf.org/
+    date: '2022-10-26'
+    awarder: Biodesign Automation Consortium
+    icon: hero/academic-cap 
+    summary: |
+      Awarded for contrubutions to the standardization of DBTL data.
+  - title: School of Computing Scholarship
+    url: https://www.ncl.ac.uk/computing/
+    date: '2021-08-03'
+    awarder: Newcastle University, School of Computing
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for academic excellence.
 ---
 
 Hi, I'm Gonzalo Vidal a postdoctoral researcher at the Genetic Logic Lab, led by Chris Myers at the University of Colorado Boulder.
