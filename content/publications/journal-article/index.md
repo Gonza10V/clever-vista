@@ -7,15 +7,15 @@ authors:
   
 author_notes:
 
-date: "2022-05-04T00:00:00Z"
+date: "2025-05-04T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-04T00:00:00Z"
+publishDate: "2025-08-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "SeqTrainer: Encoding Synthetic Biology Data for Machine Learning"
