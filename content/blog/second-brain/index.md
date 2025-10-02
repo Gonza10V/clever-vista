@@ -1,6 +1,6 @@
 ---
 title: ⚙️🦠 Biophysical and biochemical simulation engines
-summary: Create a personal knowledge base and share your knowledge with your peers.
+summary: Developing biophysical and biochemical simulation engines to model the spatiotemporal interactions of microbial communities and their interactions with multicellular hosts, enabling virtual prototyping of biological systems digital twins.
 date: 2025-07-04
 authors:
   - admin
