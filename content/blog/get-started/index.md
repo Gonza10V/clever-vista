@@ -2,7 +2,7 @@
 title: 🤖🧑🏻‍🔬 Automated, modular, and scalable data-driven DBTL workflows
 summary: Developing automated, scalable workflows that leverage robotics, software, and cloud platforms to deliver programmatic DBTL pipelines for advanced biological engineering, deployable from small academic labs to industrial-scale facilities.
 
-date: 2025-07-02
+date: 2025-07-04
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
