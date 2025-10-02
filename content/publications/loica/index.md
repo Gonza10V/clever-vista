@@ -38,7 +38,7 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-  - type: journal
+  - type: DOI
     url: https://doi.org/10.1021/acssynbio.1c00603
   - type: code
     url: https://github.com/RudgeLab/LOICA
