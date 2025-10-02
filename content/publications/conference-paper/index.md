@@ -50,11 +50,9 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
+  - type: DOI
     url: "https://doi.org/10.1038/s41419-024-07165-9"
   - type: code
-    url: https://github.com/RudgeLab/MiNuD
-  - type: source
     url: https://github.com/RudgeLab/MiNuD
 
 # Featured image
