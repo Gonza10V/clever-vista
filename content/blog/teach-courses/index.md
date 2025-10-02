@@ -1,5 +1,5 @@
 ---
-title: 🧬 Engineer genetic and genomic network for intelligent biological systems
+title: 🧬🔧 Engineer genetic and genomic network for intelligent biological systems
 summary: Embed videos, podcasts, code, LaTeX math, and even test students!
 date: 2023-10-24
 math: true
