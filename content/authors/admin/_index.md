@@ -55,6 +55,10 @@ interests:
   - Automation
   - Genetic Networks
   - Genomic Networks
+  - Complex Systems
+  - Agriculture
+  - Molecular Biology
+  - Microbiology
 
 education:
   - area: PhD in Computer Science
