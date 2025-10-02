@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["journal-article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Novel Tunable Spatio-Temporal Patterns From a Simple Genetic Oscillator Circuit"
@@ -42,24 +42,10 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
+- type: DOI
+  url: https://doi.org/10.3389/fbioe.2020.00893
 - type: code
-  url: https://github.com/HugoBlox/hugo-blox-builder
-- type: slides
-  url: https://www.slideshare.net/
-- type: dataset
-  url: "#"
-- type: poster
-  url: "#"
-- type: source
-  url: "#"
-- type: video
-  url: https://youtube.com
-- type: custom
-  label: Custom Link
-  url: http://example.org
+  url: https://github.com/RudgeLab/SpatialOscillator
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
