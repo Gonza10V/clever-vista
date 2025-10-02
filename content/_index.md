@@ -70,9 +70,9 @@ sections:
     design:
       view: card
   - block: collection
-    id: news
+    id: research
     content:
-      title: Recent News
+      title: Research Interests
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
