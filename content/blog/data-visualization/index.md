@@ -1,7 +1,7 @@
 ---
 title: 🏗️🧬 Synthetic Biology foundations and infrastructure
 summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2025-07-01
+date: 2025-07-05
 authors:
   - admin
 tags:
