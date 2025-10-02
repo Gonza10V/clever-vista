@@ -14,8 +14,8 @@ content_meta:
   trending: false
 ---
 
-I have take and invited to deliver a lecture in the in-person version of the Course by Professor Chris Myers at the University of Colorado Boulder.
-This specialization prepare students with practical and computational tools to engineer genetic circuits, that I recommend, [**Learn More **](https://www.coursera.org/programs/cu-on-coursera-sqyue/specializations/engineering-genetic-circuits).
+I have delivered a lecture in the in-person version of the course under the mentorship of Professor Chris Myers at the University of Colorado Boulder.
+This is a great opportunity to prepare students with practical and computational tools to engineer genetic circuits [**Learn More **](https://www.coursera.org/programs/cu-on-coursera-sqyue/specializations/engineering-genetic-circuits).
 
 Design Genetic Circuits for Synthetic Biology. Gain the skills to design, model, analyze, and construct genetic circuits used in synthetic biology.
 
