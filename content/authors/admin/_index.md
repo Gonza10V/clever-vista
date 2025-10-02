@@ -59,6 +59,7 @@ interests:
   - Agriculture
   - Molecular Biology
   - Microbiology
+  - Biochemistry
 
 education:
   - area: PhD in Computer Science
