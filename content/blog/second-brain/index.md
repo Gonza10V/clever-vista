@@ -1,5 +1,5 @@
 ---
-title: ⚙️ Biophysical and biochemical simulation engines
+title: ⚙️🦠 Biophysical and biochemical simulation engines
 summary: Create a personal knowledge base and share your knowledge with your peers.
 date: 2023-10-26
 authors:
