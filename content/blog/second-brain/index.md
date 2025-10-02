@@ -1,12 +1,11 @@
 ---
 title: ⚙️🦠 Biophysical and biochemical simulation engines
 summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+date: 2025-07-04
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Research area
 image:
   caption: 'Image credit: [**ACS Synthetic Biology**](https://pubs.acs.org/journal/asbcd6?ref=breadcrumb)'
 ---
