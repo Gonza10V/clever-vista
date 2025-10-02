@@ -1,5 +1,5 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
+title: 🏗️🧬 Synthetic Biology Foundations and Infrastructure
 summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
