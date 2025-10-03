@@ -10,6 +10,5 @@ tags:
   - Simulation
 ---
 
-Logical Operators for Integrated Cell Algorithms (LOICA) is a tool for the design, modeling, and parametrization of synthetic genetic networks. In contrast to existing genetic network design and modeling tools, rather than composing individual genetic parts, LOICA provides a high-level design abstraction that simplifies the design process by representing networks as combinations of components accessible to parametrization.
-
-<!--more-->
+The Flapjack data management systems allows synthetic biologist to analyze and visualize data from biological experiments. This system is provided in a serie of software that talk with each other in order to give the best expirience to every kind of user.
+This tool provides Learn tools to complete the DBTL workflow, such as storing, filtering, visualizing, and analyzing kinetic gene expression data from the test phase in order to provide input to the learn phase.
