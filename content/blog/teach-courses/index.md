@@ -1,5 +1,5 @@
 ---
-title: 🧬🔧 Engineer genetic and genomic network for intelligent biological systems
+title: 🧬🔧 Engineer genetic and genomic networks for intelligent biological systems
 summary: Use the developed infrastructure to design genetic networks for biocomputing using genetic logic circuits, in-vivo AI, and other unconventional computing such as phase-based genetic logic circuits and reservoir computing. We will implement these genetic circuits to create organisms and communities with new sensing, computing, production, and reporting capabilities.
 
 date: 2025-07-01
