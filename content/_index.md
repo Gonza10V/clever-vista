@@ -53,7 +53,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Workshops and Talks
       filters:
         folders:
           - events
