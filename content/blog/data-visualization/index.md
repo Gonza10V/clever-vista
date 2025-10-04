@@ -1,6 +1,6 @@
 ---
 title: 🏗️🧬 Synthetic Biology foundations and infrastructure
-summary: Developing the foundations and infrastructure of synthetic biology, including standards, distributed databases, and modular software ecosystems for a computer-aided DBTL cycle, ensuring data is high-throughput, high-quality, FAIR, and workflows reproducible across laboratories and biofoundries.
+summary: Architecting the foundations and infrastructure of synthetic biology, including standards, distributed databases, and modular software ecosystems for a computer-aided DBTL cycle, ensuring data is high-throughput, high-quality, FAIR, and workflows reproducible across laboratories and biofoundries.
 date: 2025-07-05
 authors:
   - admin
