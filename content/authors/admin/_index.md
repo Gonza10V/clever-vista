@@ -13,7 +13,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
@@ -129,6 +129,10 @@ skills:
         description: ''
         percent: 80
         icon: person-simple-walk
+      - name: Synthetic Biology
+        description: ''
+        percent: 90
+        icon: code-bracket
       - name: Gaming
         description: ''
         percent: 90
