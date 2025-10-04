@@ -1,5 +1,5 @@
 ---
-title: 🖥️🧠 AI/ML, mechanistic, and hybrid models for computer-aided biological engineering
+title: 🖥️🧠 AI/ML, mechanistic, and hybrid models for computer-aided biological engineering and research
 summary: Developing hybrid predictive models that combine mechanistic simulations with modern Artificial Intelligence (AI), including context-aware graph neural networks (GNNs) and agentic Large Language Models (LLMs), to tackle the DNA sequence-to-function challenge and enable predictive design from genes to ecosystems.
 date: 2025-07-03
 authors:
