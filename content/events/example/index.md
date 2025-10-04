@@ -1,7 +1,7 @@
 ---
-title: Software for Synthetic Biology Workflows at SEED
+title: Software for Synthetic Biology Workflows at SEED conference
 
-event: Software for Synthetic Biology Workflows at SEED
+event: Software for Synthetic Biology Workflows at SEED conference
 event_url: https://synbioconference.org/2023
 
 location: Hilton Los Angeles/Universal City Hotel
