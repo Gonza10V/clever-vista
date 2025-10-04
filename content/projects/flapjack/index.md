@@ -5,9 +5,9 @@ links:
   - type: code
     url: https://github.com/RudgeLab/LOICA
 tags:
-  - Design
-  - Modeling
-  - Simulation
+  - Learn
+  - Database
+  - Analysis
 ---
 
 The Flapjack data management systems allows synthetic biologist to analyze and visualize data from biological experiments. This system is provided in a serie of software that talk with each other in order to give the best expirience to every kind of user.
