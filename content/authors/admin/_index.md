@@ -60,6 +60,7 @@ interests:
   - Molecular Biology
   - Microbiology
   - Biochemistry
+  - Machine Learning
 
 education:
   - area: PhD in Computer Science
