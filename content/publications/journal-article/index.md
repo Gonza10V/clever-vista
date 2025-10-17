@@ -32,10 +32,8 @@ tags:
 featured: true
 
 links:
-  - type: DOI
-    url: https://doi.org/10.1021/acssynbio.1c00603
   - type: code
-    url: https://github.com/RudgeLab/LOICA
+    url: https://github.com/SynBioDex/SeqTrainer
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
