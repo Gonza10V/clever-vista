@@ -44,9 +44,7 @@ tags:
 featured: true
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+
 
 # Custom links
 links:
