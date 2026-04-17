@@ -39,6 +39,22 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+  - block: markdown
+    id: book
+    content:
+      title: '📘 Book'
+      subtitle: ''
+      text: |-
+        **Python for Synthetic Biology** is my open online book on executable workflows for biological engineering.
+
+        It teaches Python through sequences, tidy experimental data, SBOL, design-build-test-learn workflows, and research-grade case studies in synthetic biology.
+
+        <div style="display:flex; gap:0.75rem; flex-wrap:wrap; margin-top:1rem;">
+          <a href="https://gonza10v.github.io/Python_for_Synthetic_Biology/" style="display:inline-block; padding:0.7rem 1rem; border-radius:0.75rem; background:#2563eb; color:white; text-decoration:none; font-weight:600;">Read the book</a>
+          <a href="https://github.com/Gonza10V/Python_for_Synthetic_Biology/releases/download/book-pdf/python_for_synthetic_biology.pdf" style="display:inline-block; padding:0.7rem 1rem; border-radius:0.75rem; border:1px solid #2563eb; color:#2563eb; text-decoration:none; font-weight:600;">Download PDF</a>
+        </div>
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
