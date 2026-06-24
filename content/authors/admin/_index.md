@@ -65,26 +65,26 @@ interests:
 education:
   - area: PhD in Computer Science
     institution: Newcastle University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+    date_start: 2019-06-30
+    date_end: 2024-03-30
     summary: |
       Thesis title: Automated design, build, test, learn workflows to engineer synthetic genetic networks.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
+      url: 'http://theses.ncl.ac.uk/jspui/handle/10443/6731'
     
   - area: BS and Professional Title in Biochemistry
     institution: Pontifical Catholic University of Chile
     date_start: 2013-09-01
-    date_end: 2015-05-31
+    date_end: 2019-06-30
     summary: |
       Honors
 
 
   - area: BS in Natural and Exact Sciences 
     institution: University of Chile
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_start: 2011-03-01
+    date_end: 2013-09-01
     summary: |
       Honors
 
